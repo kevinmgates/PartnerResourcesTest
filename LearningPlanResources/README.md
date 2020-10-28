@@ -20,7 +20,7 @@ Content is broken down as follows:
 
 ### Infrastructure
 
-* [Front Door](/Azure/Infrastructure/Front%20Door.md)
+* [Front Door](Azure/Infrastructure/Front%20Door.md)
 * [Virtual WAN (SDWAN)](/PartnerResourcesTest/LearningPlanResources/Azure/Infrastructure/Virtual%20WAN%20(SDWAN).md)
 * [Windows Azure Firewall](/PartnerResourcesTest/LearningPlanResources/Azure/Infrastructure/Windows%20Azure%20Firewall.md)
 * [Threat Protection](/PartnerResourcesTest/LearningPlanResources/Azure/Infrastructure/Threat%20Protection.md)
